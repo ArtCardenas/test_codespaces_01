@@ -8,6 +8,9 @@ https://github.com/alfredodeza/demo-function
 
 
 https://www.youtube.com/watch?v=3xfOa4yeOb0
+
 https://www.computervision.zone/courses/multiple-hand-gesture-control/
+
+
 
 https://cloud.google.com/vertex-ai
